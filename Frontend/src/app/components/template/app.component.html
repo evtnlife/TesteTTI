@@ -1,0 +1,31 @@
+<style>
+</style>
+<div>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#"><img src="../../../assets/loader-tti.gif"/></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" routerLink="/">Início</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/product">Produtos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/pedidos">Pedidos</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="container mt-3 mb-3 bg-dark">
+    <router-outlet></router-outlet>
+  </div>
+  <footer class="container-fluid bg-dark text-light p-2">
+    <h6 class="text-center">Teste - C# e SQL Server - Everton Izabel da Silva</h6>
+  </footer>
+</div>

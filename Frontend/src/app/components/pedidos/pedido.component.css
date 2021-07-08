@@ -1,0 +1,20 @@
+* {
+    color: #f8f9fa !important;
+}
+
+.header {
+    font-size: 1.5em;
+}
+
+.cadBox {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.form-control {
+    color: black !important;
+}
+
+.form-control option {
+    color: black !important;
+}
