@@ -1,0 +1,9 @@
+D:\laravel_projetos\tti_teste\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+D:\laravel_projetos\tti_teste\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+D:\laravel_projetos\tti_teste\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+D:\laravel_projetos\tti_teste\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\laravel_projetos\tti_teste\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\laravel_projetos\tti_teste\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\laravel_projetos\tti_teste\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\laravel_projetos\tti_teste\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+D:\laravel_projetos\tti_teste\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
